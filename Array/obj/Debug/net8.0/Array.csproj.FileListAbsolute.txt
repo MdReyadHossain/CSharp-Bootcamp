@@ -1,0 +1,14 @@
+J:\Study\Coding\C#\CSharp-Bootcamp\Array\bin\Debug\net8.0\Array.exe
+J:\Study\Coding\C#\CSharp-Bootcamp\Array\bin\Debug\net8.0\Array.deps.json
+J:\Study\Coding\C#\CSharp-Bootcamp\Array\bin\Debug\net8.0\Array.runtimeconfig.json
+J:\Study\Coding\C#\CSharp-Bootcamp\Array\bin\Debug\net8.0\Array.dll
+J:\Study\Coding\C#\CSharp-Bootcamp\Array\bin\Debug\net8.0\Array.pdb
+J:\Study\Coding\C#\CSharp-Bootcamp\Array\obj\Debug\net8.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+J:\Study\Coding\C#\CSharp-Bootcamp\Array\obj\Debug\net8.0\Array.AssemblyInfoInputs.cache
+J:\Study\Coding\C#\CSharp-Bootcamp\Array\obj\Debug\net8.0\Array.AssemblyInfo.cs
+J:\Study\Coding\C#\CSharp-Bootcamp\Array\obj\Debug\net8.0\Array.csproj.CoreCompileInputs.cache
+J:\Study\Coding\C#\CSharp-Bootcamp\Array\obj\Debug\net8.0\Array.dll
+J:\Study\Coding\C#\CSharp-Bootcamp\Array\obj\Debug\net8.0\refint\Array.dll
+J:\Study\Coding\C#\CSharp-Bootcamp\Array\obj\Debug\net8.0\Array.pdb
+J:\Study\Coding\C#\CSharp-Bootcamp\Array\obj\Debug\net8.0\Array.genruntimeconfig.cache
+J:\Study\Coding\C#\CSharp-Bootcamp\Array\obj\Debug\net8.0\ref\Array.dll
