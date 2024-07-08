@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "J:\\Study\\Coding\\C#\\CSharp-Bootcamp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EB5B37A3-9A30-4C89-89E8-0EB69AE4F5CB}|Practice\\Practice.csproj|j:\\study\\coding\\c#\\csharp-bootcamp\\practice\\secretkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5B37A3-9A30-4C89-89E8-0EB69AE4F5CB}|Practice\\Practice.csproj|solutionrelative:practice\\secretkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5B37A3-9A30-4C89-89E8-0EB69AE4F5CB}|Practice\\Practice.csproj|j:\\study\\coding\\c#\\csharp-bootcamp\\practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5B37A3-9A30-4C89-89E8-0EB69AE4F5CB}|Practice\\Practice.csproj|solutionrelative:practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{57AB55E9-7B46-4940-A71D-82340E13F06D}|String\\String.csproj|j:\\study\\coding\\c#\\csharp-bootcamp\\string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57AB55E9-7B46-4940-A71D-82340E13F06D}|String\\String.csproj|solutionrelative:string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5B37A3-9A30-4C89-89E8-0EB69AE4F5CB}|Practice\\Practice.csproj|j:\\study\\coding\\c#\\csharp-bootcamp\\practice\\practice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB5B37A3-9A30-4C89-89E8-0EB69AE4F5CB}|Practice\\Practice.csproj|solutionrelative:practice\\practice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F608EEB3-F9F5-480D-B18E-FBFEAED487B7}|Array\\Array.csproj|j:\\study\\coding\\c#\\csharp-bootcamp\\array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,12 +38,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "String",
+              "DocumentIndex": 3,
+              "Title": "Practice",
+              "DocumentMoniker": "J:\\Study\\Coding\\C#\\CSharp-Bootcamp\\Practice\\Practice.csproj",
+              "RelativeDocumentMoniker": "Practice\\Practice.csproj",
+              "ToolTip": "J:\\Study\\Coding\\C#\\CSharp-Bootcamp\\Practice\\Practice.csproj",
+              "RelativeToolTip": "Practice\\Practice.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T17:03:23.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SecretKey.cs",
+              "DocumentMoniker": "J:\\Study\\Coding\\C#\\CSharp-Bootcamp\\Practice\\SecretKey.cs",
+              "RelativeDocumentMoniker": "Practice\\SecretKey.cs",
+              "ToolTip": "J:\\Study\\Coding\\C#\\CSharp-Bootcamp\\Practice\\SecretKey.cs",
+              "RelativeToolTip": "Practice\\SecretKey.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAowDUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T18:29:35.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "J:\\Study\\Coding\\C#\\CSharp-Bootcamp\\Practice\\Program.cs",
+              "RelativeDocumentMoniker": "Practice\\Program.cs",
+              "ToolTip": "J:\\Study\\Coding\\C#\\CSharp-Bootcamp\\Practice\\Program.cs",
+              "RelativeToolTip": "Practice\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T18:26:45.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "String.csproj",
               "DocumentMoniker": "J:\\Study\\Coding\\C#\\CSharp-Bootcamp\\String\\String.csproj",
               "RelativeDocumentMoniker": "String\\String.csproj",
               "ToolTip": "J:\\Study\\Coding\\C#\\CSharp-Bootcamp\\String\\String.csproj",
@@ -43,8 +94,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Array",
+              "DocumentIndex": 6,
+              "Title": "Array.csproj",
               "DocumentMoniker": "J:\\Study\\Coding\\C#\\CSharp-Bootcamp\\Array\\Array.csproj",
               "RelativeDocumentMoniker": "Array\\Array.csproj",
               "ToolTip": "J:\\Study\\Coding\\C#\\CSharp-Bootcamp\\Array\\Array.csproj",
@@ -56,20 +107,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "J:\\Study\\Coding\\C#\\CSharp-Bootcamp\\String\\Program.cs",
               "RelativeDocumentMoniker": "String\\Program.cs",
               "ToolTip": "J:\\Study\\Coding\\C#\\CSharp-Bootcamp\\String\\Program.cs",
               "RelativeToolTip": "String\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-28T21:20:09.984Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "J:\\Study\\Coding\\C#\\CSharp-Bootcamp\\Array\\Program.cs",
               "RelativeDocumentMoniker": "Array\\Program.cs",
@@ -77,8 +128,7 @@
               "RelativeToolTip": "Array\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T21:19:28.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T21:19:28.276Z"
             }
           ]
         }

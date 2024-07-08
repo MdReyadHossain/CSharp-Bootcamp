@@ -1,0 +1,15 @@
+J:\Study\Coding\C#\CSharp-Bootcamp\Practice\bin\Debug\net8.0\Practice.exe
+J:\Study\Coding\C#\CSharp-Bootcamp\Practice\bin\Debug\net8.0\Practice.deps.json
+J:\Study\Coding\C#\CSharp-Bootcamp\Practice\bin\Debug\net8.0\Practice.runtimeconfig.json
+J:\Study\Coding\C#\CSharp-Bootcamp\Practice\bin\Debug\net8.0\Practice.dll
+J:\Study\Coding\C#\CSharp-Bootcamp\Practice\bin\Debug\net8.0\Practice.pdb
+J:\Study\Coding\C#\CSharp-Bootcamp\Practice\obj\Debug\net8.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+J:\Study\Coding\C#\CSharp-Bootcamp\Practice\obj\Debug\net8.0\Practice.AssemblyInfoInputs.cache
+J:\Study\Coding\C#\CSharp-Bootcamp\Practice\obj\Debug\net8.0\Practice.AssemblyInfo.cs
+J:\Study\Coding\C#\CSharp-Bootcamp\Practice\obj\Debug\net8.0\Practice.csproj.CoreCompileInputs.cache
+J:\Study\Coding\C#\CSharp-Bootcamp\Practice\obj\Debug\net8.0\Practice.sourcelink.json
+J:\Study\Coding\C#\CSharp-Bootcamp\Practice\obj\Debug\net8.0\Practice.dll
+J:\Study\Coding\C#\CSharp-Bootcamp\Practice\obj\Debug\net8.0\refint\Practice.dll
+J:\Study\Coding\C#\CSharp-Bootcamp\Practice\obj\Debug\net8.0\Practice.pdb
+J:\Study\Coding\C#\CSharp-Bootcamp\Practice\obj\Debug\net8.0\Practice.genruntimeconfig.cache
+J:\Study\Coding\C#\CSharp-Bootcamp\Practice\obj\Debug\net8.0\ref\Practice.dll
