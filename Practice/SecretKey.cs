@@ -8,17 +8,17 @@ namespace Practice
 {
     internal class SecretKey
     {
-        private static readonly int[] arr = new int[16];
+        private static readonly int[] isPrime = new int[16];
 
         public static void SeivePrime()
         {
             for (int i = 2; i < 16; i++)
             {
-                if (arr[i] == 0)
+                if (isPrime[i] == 0)
                 {
                     for (int j = 2; i * j < 16; j++)
                     {
-                        arr[i * j] = 1;
+                        isPrime[i * j] = 1;
                     }
                 }
             }
@@ -36,7 +36,7 @@ namespace Practice
             string hexUid = Convert.ToInt64(Convert.ToInt64(uid) * Convert.ToInt64(xLastDigit)).ToString("X");
 
             long primeStep = 0;
-            if (arr[HexToDec(hexUid[^1].ToString())] == 0)
+            if (isPrime[HexToDec(hexUid[^1].ToString())] == 0)
             {
                 primeStep = Convert.ToInt64(xLastDigit) + 6;
             }
@@ -49,9 +49,34 @@ namespace Practice
             string saltP = Convert.ToInt32(salt[..^2]).ToString("X");
             string saltQ = Convert.ToInt32(salt.Substring(salt.Length - 2)).ToString("X");
 
-            string encryptData = saltP + hexUid.Substring(0, 2) + 'O' + hexUid[2..^1] + 'O' + hexUid.Substring(hexUid.Length - 1) + saltQ;
+            string clientUid = saltP + hexUid.Substring(0, 2) + 'O' + hexUid[2..^1] + 'O' + hexUid.Substring(hexUid.Length - 1) + saltQ;
 
-            return encryptData;
+            return clientUid;
+        }
+
+        public static string Decrypt(string clientUid)
+        {
+            SeivePrime();
+            string[] breakdownUid = clientUid.Split('O');
+            string hexUid = breakdownUid[0][^2..] + breakdownUid[1] + breakdownUid[2][..1];
+
+            long saltedP = HexToDec(breakdownUid[0].Substring(0, breakdownUid[0].Length - 2));
+            long saltedQ = HexToDec(breakdownUid[2][1..]);
+
+            long salt = Convert.ToInt64(saltedP.ToString() + saltedQ.ToString());
+
+            long lastDigits = 0;
+            if(isPrime[Convert.ToInt32(breakdownUid[2][..1])] == 0)
+            {
+                lastDigits = (salt / 9) - 6;
+            } else
+            {
+                lastDigits = (salt / 9) - 3;
+            }
+
+            string uid = (HexToDec(hexUid) / lastDigits).ToString();
+
+            return uid;
         }
     }
 }
